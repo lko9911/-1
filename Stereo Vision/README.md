@@ -21,8 +21,8 @@
 ![스크린샷 2024-11-21 130016](https://github.com/user-attachments/assets/9d121cf9-b3c5-47ac-882b-2718c8e8af1c) (좌측 매칭점및 연결선)
 ![스크린샷 2024-11-21 130031](https://github.com/user-attachments/assets/9ed42ae1-429c-41ac-bcc1-1fc818feea19) (우측 매칭점및 연결선)
 ![스크린샷 2024-11-21 130047](https://github.com/user-attachments/assets/872ebd91-b691-4f89-9237-bae4b3f0de00) (깊이 사진)
-![스크린샷 2024-11-21 130102](https://github.com/user-attachments/assets/5e1132a4-850f-4942-8f69-b8443d33e7b3) (연결선 시각화)
+![스크린샷 2024-11-21 130102](https://github.com/user-attachments/assets/5e1132a4-850f-4942-8f69-b8443d33e7b3) <br>(연결선 시각화)
 → 좌/우 사진의 기본적인 오차로 정합이 올바르지 않다는 걸 알아냄
 → 정합이 완벽한 사진에 대한 깊이 분석 성공 확인
 <br><br>
-## 결론 : 카메라 2개 보다는 스테레오 카메라가 더욱 좋다. 
+### 결론 : 카메라 2개 보다는 스테레오 카메라가 더욱 좋다. 
